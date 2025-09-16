@@ -6,6 +6,8 @@
 
 Пример дашборда в Excel: https://docs.google.com/spreadsheets/d/1yXi7WKVanszPS4MBYkB-0KcHhWj21Xi3/edit?usp=sharing&ouid=117647787816069498131&rtpof=true&sd=true
 
+(надо скачать, чтобы открылось)
+
 ### Содержимое:
 
 - **`mvd_1.ipynb`**: pandas,  matplotlib, seaborn, временной ряд погоды Москвы и Нью-Йорка
