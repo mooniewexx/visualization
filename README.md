@@ -1,8 +1,14 @@
 ## Портфолио лабораторных работ по визуализации данных
 
+Также, пример дашбордов с Yandex Datalens:
+- https://datalens.yandex/jl15h6cg7d9u5
+- https://datalens.yandex/ln3d6fbj74qm7
+
+Пример дашборда в Excel: https://docs.google.com/spreadsheets/d/1yXi7WKVanszPS4MBYkB-0KcHhWj21Xi3/edit?usp=sharing&ouid=117647787816069498131&rtpof=true&sd=true
+
 ### Содержимое:
 
-- **mvd_1.ipynb**: pandas,  matplotlib, seaborn, временной ряд погоды Москвы и Нью-Йорка
+- **`mvd_1.ipynb`**: pandas,  matplotlib, seaborn, временной ряд погоды Москвы и Нью-Йорка
 - **mvd_10.ipynb**: matplotlib, seaborn, boxplot, violinplot, гистограмма, диаграмма размаха, статистический анализ распределений
 - **mvd_13.ipynb**: plotly, интерактивная визуализация, 3D scatter, анимированные графики, солнечная энергетика
 - **mvd_6.ipynb**: pandas, matplotlib, seaborn, визуализация временных рядов, линейные графики, анализ тенденций
