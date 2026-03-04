@@ -2,7 +2,9 @@
 
 Также, пример дашбордов с Yandex Datalens:
 - https://datalens.yandex/jl15h6cg7d9u5
-- https://datalens.yandex/ln3d6fbj74qm7
+- https://datalens.yandex/xerjoj00hhroi
+- https://datalens.yandex/1ivwp5lwsrmwm
+- https://datalens.yandex/ro9iwl0y6n2ed
 
 Пример дашборда в Excel: https://docs.google.com/spreadsheets/d/1yXi7WKVanszPS4MBYkB-0KcHhWj21Xi3/edit?usp=sharing&ouid=117647787816069498131&rtpof=true&sd=true
 
